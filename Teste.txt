@@ -1,1 +1,1 @@
-Teste para fazer conflito - branch master
+Teste para fazer conflito - branch conflito
